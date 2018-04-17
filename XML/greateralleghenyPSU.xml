@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_161" class="java.beans.XMLDecoder">
+ <string>Penn State’s College of Medicine is located where?</string>
+ <string>Harrisburg</string>
+ <string>Hershey</string>
+ <string>Fayette</string>
+ <string>Hershey</string> 
+</java>

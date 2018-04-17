@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_161" class="java.beans.XMLDecoder">
+ <string>What is the name of the ship’s computer in 2001: A Space Odyssey that tells astronaut Dave Bowman "I'm sorry, Dave. I'm afraid I can't do that."</string>
+ <string>Ana Matronic</string>
+ <string>HAL-9000</string>
+ <string>Wall-E</string>
+ <string>HAL-9000</string> 
+</java>
